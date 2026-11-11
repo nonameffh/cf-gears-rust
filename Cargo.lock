@@ -3544,6 +3544,7 @@ dependencies = [
  "tokio",
  "tokio-util",
  "tracing",
+ "tracing-test",
  "uuid",
 ]
 
@@ -3561,6 +3562,7 @@ dependencies = [
  "cf-gears-toolkit-security",
  "gts",
  "schemars 1.2.3",
+ "secrecy",
  "serde",
  "serde_json",
  "thiserror 2.0.21",
